@@ -53,23 +53,22 @@ Table of Contents
 ## Syntax highlighting
 
 
----
+---------------------------------------------------------
 
 ## Licences
 
 **TODO**
 
----
+---------------------------------------------------------
 
 ## Contributing
 
-If you want to contribute to this list, you can fork it, send Pull Requests, or send a mail to me if you don't have an account here on github[^github].  
+If you want to contribute to this list, you can fork it, send Pull Requests, or send a mail to me if you don't have an account here on github.  
+I encourage self hosting and decentralization, so eh, I don't mind if you send me an email because you are not on github.  
+If you want to share your code but you don't have a github account (or don't want to create a repo for it), mail it to me and I'll create the repo and credit you for it (again, if you want to be credited).  
 I don't care if the list is not ordered alphabetically, it's ordered with the logic you want it to have.
 
-[^github]: I encourage self hosting and decentralization, so eh, I don't mind if you send me an email because you are not on github.
-
-If you want to share your code but you don't have a github account (or don't want to create a repo for it), mail it to me and I'll create the repo and credit you for it (again, if you want to be credited).
----
+---------------------------------------------------------
 
 ## Licence
 
