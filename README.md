@@ -17,17 +17,16 @@ This is the list of snippets, programs, clever tricks and games wrote by the pla
 Table of Contents
 =================
 
-+ [Food, liquids, etc.](#food--liquids--etc--)
-+ Computers
-    + Floppy
-    + Network
-        + Slurp
-    + Convenient menues
-+ Games
-+ Mods
-+ META
-    + Syntax highlighting
 
+- [Food, liquids, etc.](#food-liquids-etc)
+- [Computers](#computers)
+  - [Floppy](#floppy)
+  - [Network](#network)
+    - [Slurp](#slurp)
+  - [Convenient menues](#convenient-menues)
+- [Games](#games)
+- [Mods](#mods)
+- [META](#meta)
 
 ---------------------------------------------------------
 
