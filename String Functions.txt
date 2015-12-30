@@ -6,6 +6,7 @@
 #
 # Author Zinal
 # Return {String}
+```python
 String StrRepeat(str, times)
     String newStr = ""
     loop I from 1 to times
@@ -13,6 +14,7 @@ String StrRepeat(str, times)
     end
     return newStr    
 end
+```
 
 # StrSub(str, start, length)
 # Return a substring of a string
@@ -45,7 +47,7 @@ end
 # Param {String} separator - The separator that the string should be split with
 # Param {String} str - The original string
 #
-# Depends on StrSub
+# Depends on StrSub()
 #
 # Author Zinal
 # Return {Array}

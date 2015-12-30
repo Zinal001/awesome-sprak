@@ -1,0 +1,67 @@
+# HandleList(lst)
+# Displays a list of items that the user can choose from
+#
+# Param {Array} lst - The list of items to choose from
+#
+# Depends on LoadScreenSize(), CenterText() and [WaitForKeyPress()](./Input.txt)
+#
+# Author Zinal
+# Return {String} - Returns the selected item
+String HandleList(lst)
+    ClearText()
+    DisplayGraphics()
+    Array ScreenSize = LoadScreenSize()
+    number hCenter = ScreenSize[1] / 2
+    number hSpan = hCenter - 6
+    number Index = 0    
+    Index = Round(Count(lst) / 2)
+    
+    loop
+        
+        number listStart = Index - hSpan
+        number listEnd = Index + hSpan
+        
+        if(listStart < 0)
+            listStart = 0
+        end
+        
+        if(listEnd >= Count(lst))
+            listEnd = Count(lst) - 1
+        end
+        
+        number y = hCenter - hSpan
+        
+        ClearText()
+        Color(0, 0, 0)
+        Rect(0, 0, Width(), Height() + 1)
+        Color(0, 255, 0)        
+        
+        loop I from listStart to listEnd
+            if(HasIndex(lst, I))
+                if(I == Index)
+                    Color(255, 255, 255)
+                else
+                    Color(0, 255, 0)
+                end
+                CenterText(lst[I], y)
+                y++
+            end
+        end
+        
+        DisplayGraphics()
+        
+        loop
+            Sleep(0.3)
+            String keyDown = WaitForKeyPress(["up", "down", "space"])
+            if(keyDown == "up" && Index > 0)
+                Index--
+                break
+            else if(keyDown == "down" && Index < Count(lst) - 1)
+                Index++
+                break
+            else if(keyDown == "space")
+                return lst[Index]
+            end
+        end
+    end    
+end

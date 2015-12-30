@@ -1,0 +1,22 @@
+# WaitForAnyKeyPress()
+# An Alias function for WaitForKeyPress(keys)
+String WaitForAnyKeyPress()
+    Return WaitForKeyPress(["up","down","left","right","space"])
+end
+
+# WaitForKeyPress(keys)
+# Wait until a key in the keys array is pressed
+#
+# Param {Array} keys - An array with keys to check
+#
+# Author Zinal
+# Return {String} - The first key that was pressed
+String WaitForKeyPress(Keys)
+    loop
+        loop Keys
+            if(IsKeyPressed(@))
+                return @
+            end
+        end
+    end
+end
