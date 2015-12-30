@@ -45,7 +45,7 @@ Table of Contents
 ## Convenient menues
 
 ## Helper Functions
-[String Functions](./String Functions/)
+[String Functions](./String Functions.txt)
 # Games
 
 # Mods

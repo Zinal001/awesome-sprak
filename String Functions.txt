@@ -4,6 +4,7 @@
 # Param {String} str - The string to repeat
 # Param {Number} times - How many times it should repeat
 #
+# Author Zinal
 # Return {String}
 String StrRepeat(str, times)
     String newStr = ""
@@ -20,6 +21,7 @@ end
 # Param {Number} start - The index to start at (Strings start at 0!)
 # Param {Number} length - The amount of characters to extract
 #
+# Author Zinal
 # Return {String}
 String StrSub(str, start, length)
     String newStr = ""    
@@ -45,6 +47,7 @@ end
 #
 # Depends on StrSub
 #
+# Author Zinal
 # Return {Array}
 Array StrSplit(separator, str)
     Array parts = []
