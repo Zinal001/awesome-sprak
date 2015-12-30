@@ -1,0 +1,63 @@
+# StrRepeat(str, times)
+# Repeat a string x times
+#
+# Param {String} str - The string to repeat
+# Param {Number} times - How many times it should repeat
+#
+# Return {String}
+String StrRepeat(str, times)
+    String newStr = ""
+    loop I from 1 to times
+        newStr += str
+    end
+    return newStr    
+end
+
+# StrSub(str, start, length)
+# Return a substring of a string
+#
+# Param {String} str - The original string
+# Param {Number} start - The index to start at (Strings start at 0!)
+# Param {Number} length - The amount of characters to extract
+#
+# Return {String}
+String StrSub(str, start, length)
+    String newStr = ""    
+    if(start < 0 || length <= 0)
+        return ""
+	end
+    
+    loop I from start to start + length - 1
+        if (I >= Count(str))
+            break
+        end
+        newStr += str[I]
+    end
+    
+    return newStr
+end
+
+# StrSplit(separator, str)
+# Split a string into an array
+#
+# Param {String} separator - The separator that the string should be split with
+# Param {String} str - The original string
+#
+# Depends on StrSub
+#
+# Return {Array}
+Array StrSplit(separator, str)
+    Array parts = []
+    number lastI = 0
+    
+    loop I from 0 to Count(str) - 1
+        if (str[I] == separator)
+            Append(parts, StrSub(str, lastI, I - lastI))
+            lastI = I + 1
+        end
+    end
+    
+    Append(parts, StrSub(str, lastI, Count(str) - 1 - lastI))
+    
+    return parts
+end

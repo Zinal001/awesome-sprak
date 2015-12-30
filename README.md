@@ -24,6 +24,7 @@ Table of Contents
   - [Network](#network)
     - [Slurp](#slurp)
   - [Convenient menues](#convenient-menues)
+  - [Helper Functions](#helper-functions)
 - [Games](#games)
 - [Mods](#mods)
 - [META](#meta)
@@ -43,6 +44,8 @@ Table of Contents
 
 ## Convenient menues
 
+## Helper Functions
+[String Functions](./String Functions/)
 # Games
 
 # Mods
