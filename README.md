@@ -61,6 +61,8 @@ Table of Contents
   wiki provides references for Sprak and the Arcade API, as well as community
   programs and download links for the lab itself. There's also a (mostly defunct)
   [Facebook group](https://www.facebook.com/groups/988216627861325).
+ - Svedäng also [released the source](https://github.com/eriksvedang/GameWorld2)
+   of the core gameplay logic of the game, to make it easier for modders.
 
 # META
 
