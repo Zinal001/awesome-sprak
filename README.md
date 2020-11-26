@@ -38,6 +38,10 @@ Table of Contents
 
 # Computers
 
+- [BarbosaRMS' FakeDOS](https://github.com/BarbosaRMS/Sprak_FakeDOS)
+  looks like a DOS terminal, and provides a filesystem and file editor, as well as
+  experimental support for an assembly language.
+
 ## Floppy
 
 ## Network
