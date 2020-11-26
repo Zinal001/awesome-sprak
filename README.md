@@ -33,6 +33,8 @@ Table of Contents
 
 # Food, liquids, etc.
 
+- [VoidNoire's else-Heart.Break](https://github.com/VoidNoire/else-Heart.Break)
+  contains code for drinks, keys, modifiers, screwdrivers, and server functionality.
 
 # Computers
 
