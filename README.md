@@ -83,6 +83,9 @@ Table of Contents
   [Facebook group](https://www.facebook.com/groups/988216627861325).
  - Svedäng also [released the source](https://github.com/eriksvedang/GameWorld2)
    of the core gameplay logic of the game, to make it easier for modders.
+ - Itaros created an [Extended APIs mod with "EHBInjector"](https://github.com/Itaros/EHBExtendedAPI)
+   that may no longer be directly useful but could be a reference for future mod work.
+   [Steam discussion](https://steamcommunity.com/app/400110/discussions/0/490121928343722143/).
 
 # META
 
