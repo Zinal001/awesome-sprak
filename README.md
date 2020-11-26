@@ -59,9 +59,12 @@ Table of Contents
 
 ## Convenient menues
 
+- Zinal001's [Convenient Menues](<Convenient Menues.txt>).
+
 ## Helper Functions
 
-- [String Functions](./String Functions.txt)
+
+- Zinal001's [String Functions](<String Functions.txt>) and [Input Functions](Input.txt).
 - [Array storage utilities (Steam Guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=646979331)
   allows arrays to be written and recalled from memory.
 - [Serializable Type Library](https://steamcommunity.com/app/400110/discussions/0/490121928352987219/)
