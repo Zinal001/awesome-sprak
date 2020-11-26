@@ -33,8 +33,20 @@ Table of Contents
 
 # Food, liquids, etc.
 
+- [nicoty's else-Heart.Break](https://gitlab.com/nicoty/else-Heart.Break)
+  contains code for drinks, keys, modifiers, screwdrivers, and server functionality.
+  Project supposedly migrated to [nest.pijul.com](https://nest.pijul.com/nicoty/else_heart_break_scripts)
+  but that link is broken, so 
+  [Github Mirror](https://github.com/VoidNoire/else-Heart.Break)
 
 # Computers
+
+- [BarbosaRMS' FakeDOS](https://github.com/BarbosaRMS/Sprak_FakeDOS)
+  looks like a DOS terminal, and provides a filesystem and file editor, as well as
+  experimental support for an assembly language.
+- [IQGobo's EHBEHB](https://github.com/IQGobo/EHBEHB) provides an "Elite Hacker Board"
+  similar to Neuromancer's Hiro Protagonist, as well as instructions for how to teleport
+  it to you at will. Incredibly powerful.
 
 ## Floppy
 
@@ -42,17 +54,57 @@ Table of Contents
 
 ### Slurp
 
+- [Slurpie (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/487870763300928645/)
+  uses a bootable floppy and a server to slurp around the world, and manage those connections.
+
 ## Convenient menues
 
+- Zinal001's [Convenient Menues](<Convenient Menues.txt>).
+
 ## Helper Functions
-[String Functions](./String Functions.txt)
+
+
+- Zinal001's [String Functions](<String Functions.txt>) and [Input Functions](Input.txt).
+- [Array storage utilities (Steam Guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=646979331)
+  allows arrays to be written and recalled from memory.
+- [Serializable Type Library](https://steamcommunity.com/app/400110/discussions/0/490121928352987219/)
+  provides functions to serialize and deserialize structured data.
+  Pastebin has the [latest](https://pastebin.com/GDxee0Ns).
+  It has *tests*.
+  
 # Games
 
 # Mods
 
+- Erik Svedäng provided a mini lab for building arcade games called the
+  [SecretArcade](https://github.com/eriksvedang/SecretArcade/wiki). The
+  wiki provides references for Sprak and the Arcade API, as well as community
+  programs and download links for the lab itself. There's also a (mostly defunct)
+  [Facebook group](https://www.facebook.com/groups/988216627861325).
+ - Svedäng also [released the source](https://github.com/eriksvedang/GameWorld2)
+   of the core gameplay logic of the game, to make it easier for modders.
+
 # META
 
+- [SPRAK Manual (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=546973541) - 
+  Copy of the in-game manual for ease of reference, with bonus list of in-game sound effects.
+- [SPRAK Command Reference (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=612257262)
+  Attempts to list all SPRAK primitives (excluding functions). May be out of date but still useful.
+- Svedäng has [provided the source](https://github.com/eriksvedang/Grimm)
+  for the GRIMM scripting language used in EHB. This includes Notepad++ and Textmate syntax
+  highlighting plugins, but probably not the EHB specific APIs.
+- [Master Floppy List (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=1434554102)
+  lists all the floppies in game and their contents. Full of spoilers, but handy.
+  
+
 ## Syntax highlighting
+
+- [GRIMM Notepad++](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Notpepad%2B%2B)
+- [GRIMM Textmate](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Textmate)
+- [Sublime Språk Syntax](https://github.com/Eforen/sublime-syntax-sprak)
+- [SPRAK Sublime Text 3 Syntax Highlighting (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/135508031954612536/)
+- [sprak.vim](https://github.com/valeth/sprak.vim) - 
+  vim syntax highlighting.
 
 
 ---------------------------------------------------------
@@ -76,4 +128,5 @@ I don't care if the list is not ordered alphabetically, it's ordered with the lo
 
 This list is under the [Kopimi Licence](http://www.kopimi.com/kopimi), and here is the list of contributors :
 
-
+- [Zinal001](https://github.com/Zinal001) - original author of the list
+- [dznz](https://github.com/dznz) - updated with a number of links
