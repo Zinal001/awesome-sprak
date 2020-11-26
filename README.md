@@ -1,5 +1,7 @@
 # Awesome Språk
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 Sprak is the langage used in the game `else Heart.Break()` to write softwares on floppy disks, to run computers, and to modify effects of common objects such as coffee, beer, cigarettes, lamps, and mystical cubes.
 
 This is the list of snippets, programs, clever tricks and games wrote by the player community.
@@ -59,7 +61,17 @@ Table of Contents
 
 ## Licences
 
-**TODO**
+### [Creative Commons Zero v1.0 Universal](LICENSE)
+
+To the extent possible under law, [Zinal001](https://github.com/Zinal001) has
+waived all copyright and related or neighboring rights to
+[awesome-sprak](https://github.com/Zinal001/awesome-sprak). 
+
+### [Kopimi](https://www.kopimi.com/kopimi)
+
+The author wants you to copy their work, without restriction.
+
+[![Kopimi](https://www.kopimi.com/kopimi/c_mini_6.gif)](https://www.kopimi.com/kopimi/)
 
 ---------------------------------------------------------
 
