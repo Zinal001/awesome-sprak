@@ -98,6 +98,7 @@ Table of Contents
   highlighting plugins, but probably not the EHB specific APIs.
 - [Master Floppy List (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=1434554102)
   lists all the floppies in game and their contents. Full of spoilers, but handy.
+- WLLR9505 has [translated EHB into Portuguese and Spanish](https://github.com/WLLR9505/ElseHeartBreak).
   
 
 ## Syntax highlighting
