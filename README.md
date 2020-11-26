@@ -41,6 +41,9 @@ Table of Contents
 - [BarbosaRMS' FakeDOS](https://github.com/BarbosaRMS/Sprak_FakeDOS)
   looks like a DOS terminal, and provides a filesystem and file editor, as well as
   experimental support for an assembly language.
+- [IQGobo's EHBEHB](https://github.com/IQGobo/EHBEHB) provides an "Elite Hacker Board"
+  similar to Neuromancer's Hiro Protagonist, as well as instructions for how to teleport
+  it to you at will. Incredibly powerful.
 
 ## Floppy
 
