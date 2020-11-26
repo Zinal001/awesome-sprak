@@ -56,6 +56,8 @@ Table of Contents
 
 - [Slurpie (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/487870763300928645/)
   uses a bootable floppy and a server to slurp around the world, and manage those connections.
+- [The Teleporter 9000 (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/1696048245844467007/) - 
+  Script to allow you to teleport from any computer. Updated 2020.
 
 ## Convenient menues
 
