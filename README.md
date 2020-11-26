@@ -56,6 +56,12 @@ Table of Contents
 
 # Mods
 
+- Erik Svedäng provided a mini lab for building arcade games called the
+  [SecretArcade](https://github.com/eriksvedang/SecretArcade/wiki). The
+  wiki provides references for Sprak and the Arcade API, as well as community
+  programs and download links for the lab itself. There's also a (mostly defunct)
+  [Facebook group](https://www.facebook.com/groups/988216627861325).
+
 # META
 
 ## Syntax highlighting
