@@ -54,6 +54,9 @@ Table of Contents
 
 ### Slurp
 
+- [Slurpie (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/487870763300928645/)
+  uses a bootable floppy and a server to slurp around the world, and manage those connections.
+
 ## Convenient menues
 
 ## Helper Functions
