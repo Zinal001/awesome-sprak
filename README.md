@@ -1,6 +1,6 @@
 # Awesome Språk
 
-Sprak is the langage used in the game `else Heart.Break()` to write softwares on floppy disks, to run computers, and to modify effects of common objects such as coffee, beer, cigarettes, lamps, and mystical cubes.
+Sprak is the langage used in the game [`else Heart.Break()`](http://elseheartbreak.com/) to write softwares on floppy disks, to run computers, and to modify effects of common objects such as coffee, beer, cigarettes, lamps, and mystical cubes.
 
 This is the list of snippets, programs, clever tricks and games wrote by the player community.
 
