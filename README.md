@@ -57,7 +57,11 @@ Table of Contents
 ## Convenient menues
 
 ## Helper Functions
-[String Functions](./String Functions.txt)
+
+- [String Functions](./String Functions.txt)
+- [Array storage utilities (Steam Guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=646979331)
+  allows arrays to be written and recalled from memory.
+  
 # Games
 
 # Mods
