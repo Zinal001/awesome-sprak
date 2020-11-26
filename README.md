@@ -61,6 +61,10 @@ Table of Contents
 - [String Functions](./String Functions.txt)
 - [Array storage utilities (Steam Guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=646979331)
   allows arrays to be written and recalled from memory.
+- [Serializable Type Library](https://steamcommunity.com/app/400110/discussions/0/490121928352987219/)
+  provides functions to serialize and deserialize structured data.
+  Pastebin has the [latest](https://pastebin.com/GDxee0Ns).
+  It has *tests*.
   
 # Games
 
