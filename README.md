@@ -93,6 +93,10 @@ Table of Contents
 
 ## Syntax highlighting
 
+- [GRIMM Notepad++](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Notpepad%2B%2B)
+- [GRIMM Textmate](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Textmate)
+- [SPRAK Sublime Text 3 Syntax Highlighting (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/135508031954612536/)
+
 
 ---------------------------------------------------------
 
