@@ -95,7 +95,10 @@ Table of Contents
 
 - [GRIMM Notepad++](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Notpepad%2B%2B)
 - [GRIMM Textmate](https://github.com/eriksvedang/Grimm/tree/master/Grimm/LanguageDefinitionPlugins/Textmate)
+- [Sublime Språk Syntax](https://github.com/Eforen/sublime-syntax-sprak)
 - [SPRAK Sublime Text 3 Syntax Highlighting (Steam discussion)](https://steamcommunity.com/app/400110/discussions/0/135508031954612536/)
+- [sprak.vim](https://github.com/valeth/sprak.vim) - 
+  vim syntax highlighting.
 
 
 ---------------------------------------------------------
