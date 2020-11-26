@@ -128,4 +128,5 @@ I don't care if the list is not ordered alphabetically, it's ordered with the lo
 
 This list is under the [Kopimi Licence](http://www.kopimi.com/kopimi), and here is the list of contributors :
 
-
+- [Zinal001](https://github.com/Zinal001) - original author of the list
+- [dznz](https://github.com/dznz) - updated with a number of links
