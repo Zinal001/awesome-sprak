@@ -72,6 +72,12 @@ Table of Contents
 
 # META
 
+- [SPRAK Manual (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=546973541) - 
+  Copy of the in-game manual for ease of reference, with bonus list of in-game sound effects.
+- [SPRAK Command Reference (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=612257262)
+  Attempts to list all SPRAK primitives (excluding functions). May be out of date but still useful.
+  
+
 ## Syntax highlighting
 
 
