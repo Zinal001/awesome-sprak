@@ -83,6 +83,8 @@ Table of Contents
 - Svedäng has [provided the source](https://github.com/eriksvedang/Grimm)
   for the GRIMM scripting language used in EHB. This includes Notepad++ and Textmate syntax
   highlighting plugins, but probably not the EHB specific APIs.
+- [Master Floppy List (Steam guide)](https://steamcommunity.com/sharedfiles/filedetails/?id=1434554102)
+  lists all the floppies in game and their contents. Full of spoilers, but handy.
   
 
 ## Syntax highlighting
